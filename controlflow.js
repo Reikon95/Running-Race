@@ -1,3 +1,4 @@
+console.log('Welcome to the race! Please enter your age and if you entered early or late by choosing true or false');
 let raceNumber = Math.floor(Math.random() * 1000);
 //assigns a random number of 1-1000
 let early = true;
